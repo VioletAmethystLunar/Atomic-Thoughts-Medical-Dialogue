@@ -1,0 +1,47 @@
+2026-01-05 15:58:28,997 - __main__ - INFO - Starting generation process
+2026-01-05 15:58:28,998 - __main__ - INFO - Loaded 1 records
+2026-01-05 15:58:28,998 - __main__ - INFO - Processed samples: 0
+2026-01-05 15:58:28,998 - __main__ - INFO - Remaining cases to process: 1
+2026-01-05 15:58:29,228 - __main__ - INFO - MedicalThoughtChainGenerator initialized with model: qwen3-next-80b-a3b-instruct
+2026-01-05 15:58:29,228 - __main__ - INFO - ��ʼ�������� 25���� 8 �ֶԻ�
+2026-01-05 15:58:31,477 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-05 15:58:32,771 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-05 15:58:32,889 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-05 15:58:33,047 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-05 15:58:33,287 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-05 15:58:33,434 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-05 15:58:33,747 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-05 15:58:34,385 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-05 15:58:34,513 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-05 15:58:34,689 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-05 15:58:34,825 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-05 15:58:34,959 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-05 15:58:35,291 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-05 15:58:35,501 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-05 15:58:35,638 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-05 15:58:36,743 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-05 15:58:37,833 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-05 15:58:38,157 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-05 15:58:38,817 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-05 15:58:38,817 - __main__ - INFO - Action confirmed as new (LLM Denied, Sim 0.71): �������� != ������Ч
+2026-01-05 15:58:38,817 - __main__ - INFO - New atomic action added to library: ���ƽ��� -> ��������
+2026-01-05 15:58:40,174 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-05 15:58:41,487 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-05 15:58:43,117 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-05 15:58:43,805 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-05 15:58:43,918 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-05 15:58:44,246 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-05 15:58:44,373 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-05 15:58:44,525 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-05 15:58:44,526 - __main__ - INFO - Action confirmed as new (Low Sim 0.60): ˵����������
+2026-01-05 15:58:44,526 - __main__ - INFO - New atomic action added to library: Ԥ������ -> ˵����������
+2026-01-05 15:58:45,566 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-05 15:58:45,710 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-05 15:58:46,375 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-05 15:58:46,375 - __main__ - INFO - Action confirmed as new (LLM Denied, Sim 0.74): �ܾ�����Ҫ��� != ��鷽������
+2026-01-05 15:58:46,375 - __main__ - INFO - New atomic action added to library: �����ѯ -> �ܾ�����Ҫ���
+2026-01-05 15:58:47,879 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-05 15:58:48,778 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-05 15:58:50,001 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-05 15:58:50,001 - __main__ - INFO - Completed Case: 25
+2026-01-05 15:58:50,001 - __main__ - INFO - Success
