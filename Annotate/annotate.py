@@ -768,7 +768,7 @@ if __name__ == "__main__":
     try:
         logger.info("Starting generation process")
 
-        raw_data_path = './data/1.jsonl'  # ReMeDi-large-0-converted
+        raw_data_path = './data/ReMeDi-large-0-converted.jsonl'  
         output_path = "./results/medical_thought_chains_ReMeDi_qwen3_80b.jsonl"
 
         raw_data = read_jsonl(raw_data_path)
@@ -798,3 +798,4 @@ if __name__ == "__main__":
         logger.warning("User interrupted, saving in progress")
     finally:
         logger.info("Success")
+
