@@ -8,6 +8,10 @@ We introduce a framework that decomposes medical reasoning into **Atomic Thought
 
 This repository contains the code and data processing pipeline for the paper **"Experience is the Teacher: Reusing Atomic Thoughts from LLMs to Improve Medical Dialogue"**.
 
+## 📄 Paper
+
+You can read the full paper here: [Experience is the Teacher: Reusing Atomic Thoughts from LLMs to Improve Medical Dialogue](Assets/Experience_is_the_Teacher.pdf)
+
 ## 📂 Repository Structure
 
 The project is organized as follows:
