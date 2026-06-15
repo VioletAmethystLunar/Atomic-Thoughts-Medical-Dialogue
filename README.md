@@ -10,7 +10,7 @@ This repository contains the code and data processing pipeline for the paper **"
 
 ## 📄 Paper
 
-You can read the full paper here: [Experience is the Teacher: Reusing Atomic Thoughts from LLMs to Improve Medical Dialogue](Assets/Experience_is_the_Teacher.pdf)
+You can read the full paper here: [Experience is the Teacher: Reusing Atomic Thoughts from LLMs to Improve Medical Dialogue](Assets/Experience_is_the_Teacher__Reusing_Atomic_Thoughts_from_LLMs_to_Improve_Medical_Dialogue.pdf)
 
 ## 📂 Repository Structure
 
