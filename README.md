@@ -6,7 +6,7 @@
 
 We introduce a framework that decomposes medical reasoning into **Atomic Thoughts**, builds an **Action Library** from experience, and reuses these thoughts to generate high-quality, empathetic, and clinically accurate medical dialogues.
 
-This repository contains the code and data processing pipeline for the paper **"Experience is the Teacher: Reusing Atomic Thoughts from LLMs to Improve Medical Dialogue"**.
+This repository contains the code and data processing pipeline for our **ACL Findings 2026** paper, **"Experience is the Teacher: Reusing Atomic Thoughts from LLMs to Improve Medical Dialogue"**.
 
 ## 📄 Paper
 
