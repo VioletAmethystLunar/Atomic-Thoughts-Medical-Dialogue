@@ -119,3 +119,12 @@ The pipeline executes the following Python scripts in order:
 The validation set of the ReMeDi dataset is publicly available in the Eval/directory.
 
 
+
+## Model Weights
+
+The model weights are available at:  
+https://huggingface.co/VioletAmethyst/Qwen3-4B-ReMeDi
+
+![Hugging Face QR Code](Assets/hf_QR.png)
+
+
