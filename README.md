@@ -125,6 +125,7 @@ The validation set of the ReMeDi dataset is publicly available in the Eval/direc
 The model weights are available at:  
 https://huggingface.co/VioletAmethyst/Qwen3-4B-ReMeDi
 
-![Hugging Face QR Code](Assets/hf_QR.png)
+<img src="Assets/hf_QR.png" alt="Hugging Face QR Code" width="180">
+
 
 
