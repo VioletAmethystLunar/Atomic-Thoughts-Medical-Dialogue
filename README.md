@@ -127,5 +127,12 @@ https://huggingface.co/VioletAmethyst/Qwen3-4B-ReMeDi
 
 <img src="Assets/hf_QR.png" alt="Hugging Face QR Code" width="180">
 
+## Dataset
+
+The ReMeDi-ATMD dataset is available at:  
+https://huggingface.co/datasets/VioletAmethyst/ReMeDi-ATMD
+
+<img src="Assets/dataset_QR.png" alt="Hugging Face Dataset QR Code" width="180">
+
 
 
